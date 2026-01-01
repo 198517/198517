@@ -8,6 +8,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andersondelima.1985/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/198517)
 
+![Profile Views](https://komarev.com/ghpvc/?username=198517&color=58A6FF&style=for-the-badge&label=Visualizações)
+
 </div>
 
 ---
@@ -18,13 +20,15 @@ Sou um profissional apaixonado por **dados**, **tecnologia** e **soluções inte
 
 - 🔭 Atualmente trabalhando com **análise de dados** e **engenharia de dados**
 - 🌱 Aprendendo continuamente sobre **Big Data**, **Machine Learning** e **Cloud Computing**
-- 💡 Focado em criar soluções escaláveis e eficientes
+- 💡 Focado em criar soluções escaláveis e eficientes com **Data Lakes** e **Apache Hadoop**
 - 🎯 Objetivo: Transformar dados em valor para organizações
 - 🦉 Curiosidade: Sempre em busca de novos desafios e conhecimentos
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Stack Tecnológico
+
+<div align="center">
 
 ### 💻 Linguagens de Programação
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -48,27 +52,101 @@ Sou um profissional apaixonado por **dados**, **tecnologia** e **soluções inte
 ### ☁️ Big Data & Cloud
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-### 🔧 Ferramentas & Outros
+### 🔧 Ferramentas & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+</div>
+
 ---
-## 🎯 Estatísticas GitHub
+
+## 💼 Áreas de Expertise
+
+```python
+anderson_de_lima = {
+    "role": "Analista de Dados",
+    "expertise": [
+        "Análise Exploratória de Dados (EDA)",
+        "Visualização de Dados",
+        "Business Intelligence (BI)",
+        "ETL/ELT Pipelines",
+        "Data Warehousing",
+        "Data Lakes & Lakehouses",
+        "Mineração de Dados",
+        "Estatística Aplicada",
+        "Storytelling com Dados"
+    ],
+    "tools": {
+        "languages": ["Python", "SQL", "R", "JavaScript"],
+        "bi_tools": ["Power BI", "Tableau", "Excel"],
+        "databases": ["PostgreSQL", "MySQL", "SQL Server", "MongoDB"],
+        "big_data": ["Apache Spark", "Hadoop", "PySpark", "MinIO"],
+        "cloud": ["AWS", "Azure"],
+        "version_control": ["Git", "GitHub"],
+        "containers": ["Docker"]
+    },
+    "current_focus": [
+        "Data Lakes com MinIO",
+        "Apache Hadoop",
+        "Machine Learning",
+        "Cloud Data Engineering",
+        "Real-time Analytics"
+    ],
+    "learning": [
+        "Apache Airflow",
+        "Databricks",
+        "Snowflake",
+        "Advanced ML Algorithms"
+    ]
+}
+```
+
+---
+
+## 📊 Projetos em Destaque
+
+### 🏗️ Data Lake com MinIO & Apache Hadoop
+Construção de arquitetura de Data Lake utilizando **MinIO** como storage object e **Apache Hadoop** para processamento distribuído. Implementação de pipelines de ingestão de dados do **SQL Server** utilizando **PySpark**.
+
+**Tecnologias**: MinIO, Hadoop, PySpark, Docker, SQL Server
+
+---
+
+### 📈 Mineração e Análise de Dados
+Projetos de análise exploratória e mineração de dados utilizando **Python**, **Pandas**, **NumPy** e **Jupyter Notebooks**. Desenvolvimento de modelos estatísticos e visualizações para insights de negócio.
+
+**Tecnologias**: Python, Pandas, NumPy, Jupyter, Matplotlib, Seaborn
+
+---
+
+### 💻 Desenvolvimento Web & Dashboards
+Criação de páginas web e aplicações para visualização de dados e dashboards interativos. Desenvolvimento de interfaces para apresentação de análises e métricas.
+
+**Tecnologias**: HTML, CSS, JavaScript, Power BI, Tableau
+
+---
+
+## 🎯 Competências Principais
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=198517&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=198517&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+| 📊 Área | 🎯 Especialização | 🛠️ Ferramentas |
+|---------|-------------------|-----------------|
+| **Análise de Dados** | EDA, Visualização, Storytelling | Python, Pandas, NumPy |
+| **Engenharia de Dados** | ETL/ELT, Data Lakes, Pipelines | PySpark, Hadoop, MinIO |
+| **Business Intelligence** | Dashboards, Relatórios, KPIs | Power BI, Tableau, Excel |
+| **Big Data** | Processamento Distribuído | Spark, Hadoop, PySpark |
+| **Bancos de Dados** | Modelagem, Queries, Otimização | SQL Server, PostgreSQL, MySQL |
+| **Cloud Computing** | Infraestrutura, Deploy | AWS, Azure, Docker |
 
 </div>
-
-> **Nota**: Se as estatísticas acima não aparecerem, pode ser devido a limitações temporárias da API. Visite meu perfil para ver meus repositórios e contribuições!
 
 ---
 
@@ -88,18 +166,13 @@ Se você está procurando um profissional dedicado e apaixonado por dados, vamos
 
 ---
 
-## 🌟 Destaques
+## 🌟 Diferenciais
 
 <div align="center">
 
-| 📊 Área | 🎯 Foco Principal |
-|---------|-------------------|
-| **Análise de Dados** | EDA, Visualização, Storytelling |
-| **Engenharia de Dados** | ETL/ELT, Data Lakes, Pipelines |
-| **Business Intelligence** | Power BI, Tableau, Dashboards |
-| **Big Data** | Spark, Hadoop, PySpark, MinIO |
-| **Bancos de Dados** | SQL Server, PostgreSQL, MySQL |
-| **Cloud Computing** | AWS, Azure |
+🔍 **Análise Profunda** • 📊 **Visualização Impactante** • 💡 **Insights Acionáveis**
+
+🚀 **Soluções Escaláveis** • 🎯 **Foco em Resultados** • 🤝 **Trabalho em Equipe**
 
 </div>
 
@@ -107,20 +180,20 @@ Se você está procurando um profissional dedicado e apaixonado por dados, vamos
 
 <div align="center">
 
-### 💭 Frase Inspiradora
+### 💭 Filosofia de Trabalho
 
 *"Dados são o novo petróleo, mas só têm valor quando refinados em insights acionáveis."*
 
 ---
 
-### 📈 Contribuições
+### 📈 Contribuindo para a Comunidade
 
-Contribuo regularmente com projetos de análise de dados, engenharia de dados e soluções inteligentes.
+Compartilho conhecimento através de projetos open source e contribuições em análise de dados, engenharia de dados e soluções inteligentes.
 
 **⭐ Se você gostou dos meus projetos, não esqueça de dar uma estrela!**
 
 ---
 
-**Última atualização**: Janeiro 2026
+**Última atualização**: Janeiro 2026 | **Repositórios**: 7 | **Estrelas**: ⭐
 
 </div>
