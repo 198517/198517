@@ -58,80 +58,17 @@ Sou um profissional apaixonado por **dados**, **tecnologia** e **soluções inte
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-## 📈 Estatísticas do GitHub
+## 🎯 Estatísticas GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=198517&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=198517&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=198517&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=198517&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 </div>
 
-<div align="center">
-  
-<img src="https://streak-stats.demolab.com/?user=198517&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🏆 Conquistas GitHub
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=198517&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 🏆 Conquistas GitHub
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=198517&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
-
-## 💼 Áreas de Expertise
-
-```python
-anderson_de_lima = {
-    "role": "Analista de Dados",
-    "expertise": [
-        "Análise Exploratória de Dados (EDA)",
-        "Visualização de Dados",
-        "Business Intelligence (BI)",
-        "ETL/ELT Pipelines",
-        "Data Warehousing",
-        "Mineração de Dados",
-        "Estatística Aplicada",
-        "Storytelling com Dados"
-    ],
-    "tools": {
-        "languages": ["Python", "SQL", "R"],
-        "bi_tools": ["Power BI", "Tableau", "Excel"],
-        "databases": ["PostgreSQL", "MySQL", "SQL Server", "MongoDB"],
-        "big_data": ["Apache Spark", "Hadoop", "PySpark"],
-        "cloud": ["AWS", "Azure"],
-        "version_control": ["Git", "GitHub"]
-    },
-    "current_focus": [
-        "Data Lakes & Lakehouses",
-        "Machine Learning",
-        "Cloud Data Engineering",
-        "Real-time Analytics"
-    ],
-    "learning": [
-        "Apache Airflow",
-        "Databricks",
-        "Snowflake",
-        "Advanced ML Algorithms"
-    ]
-}
-```
+> **Nota**: Se as estatísticas acima não aparecerem, pode ser devido a limitações temporárias da API. Visite meu perfil para ver meus repositórios e contribuições!
 
 ---
 
@@ -139,41 +76,51 @@ anderson_de_lima = {
 
 <div align="center">
 
-💼 **Aberto para oportunidades e colaborações!**
+### 💼 Aberto para oportunidades e colaborações!
 
 Se você está procurando um profissional dedicado e apaixonado por dados, vamos conversar!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se_comigo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-de-lima-analista-de-dados/)
-[![Email](https://img.shields.io/badge/Email-Entre_em_contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anderson.lima@email.com)
 [![Instagram](https://img.shields.io/badge/Instagram-Siga--me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andersondelima.1985/)
+[![Email](https://img.shields.io/badge/Email-Entre_em_contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anderson.lima@email.com)
 
 </div>
 
 ---
 
-## 📊 Atividade Recente
+## 🌟 Destaques
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<div align="center">
+
+| 📊 Área | 🎯 Foco Principal |
+|---------|-------------------|
+| **Análise de Dados** | EDA, Visualização, Storytelling |
+| **Engenharia de Dados** | ETL/ELT, Data Lakes, Pipelines |
+| **Business Intelligence** | Power BI, Tableau, Dashboards |
+| **Big Data** | Spark, Hadoop, PySpark, MinIO |
+| **Bancos de Dados** | SQL Server, PostgreSQL, MySQL |
+| **Cloud Computing** | AWS, Azure |
+
+</div>
 
 ---
 
 <div align="center">
-  
+
 ### 💭 Frase Inspiradora
 
 *"Dados são o novo petróleo, mas só têm valor quando refinados em insights acionáveis."*
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=198517&color=58A6FF&style=for-the-badge&label=Visualizações+do+Perfil)
+### 📈 Contribuições
+
+Contribuo regularmente com projetos de análise de dados, engenharia de dados e soluções inteligentes.
 
 **⭐ Se você gostou dos meus projetos, não esqueça de dar uma estrela!**
 
-</div>
-
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+**Última atualização**: Janeiro 2026
+
 </div>
