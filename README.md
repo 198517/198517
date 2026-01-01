@@ -30,11 +30,39 @@ Sou um profissional apaixonado por **dados**, **tecnologia** e **soluções inte
 
 <div align="center">
 
-### 💻 Linguagens de Programação
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 💻 Linguagens & Tecnologias
+
+**SQL** – Consultas, análise e modelagem de dados  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Python** – Análise, ETL, automação e Machine Learning  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**R** – Estatística e análise avançada  
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**DAX** – Cálculos e métricas no Power BI  
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Spark / PySpark** – Processamento de Big Data  
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+
+**Scala** – Pipelines de dados em larga escala  
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+
+**Bash / Shell Script** – Automação e orquestração  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Java** – Aplicações e frameworks de dados  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**NoSQL** – MongoDB, Cassandra, Neo4j (dados não relacionais)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+
+**Excel** – VBA / Power Query (análise e BI)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### 📊 Análise de Dados & BI
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -81,29 +109,45 @@ anderson_de_lima = {
         "Data Lakes & Lakehouses",
         "Mineração de Dados",
         "Estatística Aplicada",
+        "Machine Learning",
         "Storytelling com Dados"
     ],
+    "languages": {
+        "SQL": "Consultas, análise e modelagem de dados",
+        "Python": "Análise, ETL, automação e Machine Learning",
+        "R": "Estatística e análise avançada",
+        "DAX": "Cálculos e métricas no Power BI",
+        "Spark/PySpark": "Processamento de Big Data",
+        "Scala": "Pipelines de dados em larga escala",
+        "Bash/Shell": "Automação e orquestração",
+        "Java": "Aplicações e frameworks de dados"
+    },
     "tools": {
-        "languages": ["Python", "SQL", "R", "JavaScript"],
-        "bi_tools": ["Power BI", "Tableau", "Excel"],
-        "databases": ["PostgreSQL", "MySQL", "SQL Server", "MongoDB"],
+        "bi_tools": ["Power BI", "Tableau", "Excel (VBA/Power Query)"],
+        "databases": {
+            "relational": ["PostgreSQL", "MySQL", "SQL Server"],
+            "nosql": ["MongoDB", "Cassandra", "Neo4j"]
+        },
         "big_data": ["Apache Spark", "Hadoop", "PySpark", "MinIO"],
+        "python_libs": ["Pandas", "NumPy", "Scikit-learn", "Matplotlib", "Seaborn"],
         "cloud": ["AWS", "Azure"],
-        "version_control": ["Git", "GitHub"],
-        "containers": ["Docker"]
+        "containers": ["Docker"],
+        "version_control": ["Git", "GitHub"]
     },
     "current_focus": [
         "Data Lakes com MinIO",
         "Apache Hadoop",
         "Machine Learning",
         "Cloud Data Engineering",
-        "Real-time Analytics"
+        "Real-time Analytics",
+        "Pipelines de dados escaláveis"
     ],
     "learning": [
         "Apache Airflow",
         "Databricks",
         "Snowflake",
-        "Advanced ML Algorithms"
+        "Advanced ML Algorithms",
+        "Kubernetes"
     ]
 }
 ```
